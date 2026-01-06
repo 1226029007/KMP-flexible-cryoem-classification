@@ -1,5 +1,3 @@
-KMP Flexible Cryo-EM Particle Deformation Classification
-
 English Instructions
 ------------------------------------------------------------------------------------------
 Overview
